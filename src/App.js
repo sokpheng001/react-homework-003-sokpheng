@@ -1,19 +1,17 @@
-import logo from './logo.svg';
+
 import './App.css';
-import Skelton from './component/Skelton';
 import CardRender from './component/CardRender'
 import Nav from './component/Nav';
+import Nav1 from './component/Nav1';
 
 function App() {
   return (
     <div className="App">
       {/* NavBar */}
-      <Nav/>
-      <hr></hr>
+      <Nav1/>
       {/* Card in main and render */}
       <CardRender/>
     </div>
   );
 }
-
 export default App;
