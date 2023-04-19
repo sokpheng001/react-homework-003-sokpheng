@@ -8,6 +8,7 @@ function App() {
   return (
     <div className="App">
       {/* NavBar */}
+      {/* <Nav></Nav> */}
       <Nav1/>
       {/* Card in main and render */}
       <CardRender/>
