@@ -1,7 +1,6 @@
 import React from 'react'
 import Card  from 'react-bootstrap/Card'
 import  Placeholder  from 'react-bootstrap/Placeholder'
-import Button from 'react-bootstrap/Button'
 import 'bootstrap/dist/css/bootstrap.min.css'
 
 export default function Skelton() {
