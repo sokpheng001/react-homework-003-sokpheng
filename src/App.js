@@ -10,7 +10,7 @@ function App() {
       {/* NavBar */}
       <Nav/>
       <hr></hr>
-      {/* Card in main */}
+      {/* Card in main and render */}
       <CardRender/>
     </div>
   );
